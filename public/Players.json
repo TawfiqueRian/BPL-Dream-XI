@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "Mustafizur Rahman",
+    "country": "Bangladesh",
+    "role": "Bowler",
+    "rating": 8.8,
+    "battingHand": "Left-hand bat",
+    "bowlingHand": "Left-arm fast-medium",
+    "priceUSD": 109091,
+    "image": "https://i.ibb.co.com/Z6d3NQx0/images.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Liton Das",
+    "country": "Bangladesh",
+    "role": "Wicketkeeper-Batsman",
+    "rating": 8.5,
+    "battingHand": "Right-hand bat",
+    "bowlingHand": "N/A",
+    "priceUSD": 90909,
+    "image": "https://i.ibb.co.com/n8wTF5YK/image.png"
+  },
+  {
+    "id": 3,
+    "name": "Tanzid Hasan Tamim",
+    "country": "Bangladesh",
+    "role": "Batsman",
+    "rating": 8.0,
+    "battingHand": "Left-hand bat",
+    "bowlingHand": "N/A",
+    "priceUSD": 72727,
+    "image": "https://i.ibb.co.com/LzHrRtQx/image.png"
+  },
+  {
+    "id": 4,
+    "name": "Sabbir Rahman",
+    "country": "Bangladesh",
+    "role": "All-rounder",
+    "rating": 7.8,
+    "battingHand": "Right-hand bat",
+    "bowlingHand": "Leg-break",
+    "priceUSD": 63636,
+    "image": "https://i.ibb.co.com/tMmQbtTQ/image.png"
+  },
+  {
+    "id": 5,
+    "name": "Habibur Rahman Sohan",
+    "country": "Bangladesh",
+    "role": "Batsman",
+    "rating": 7.5,
+    "battingHand": "Right-hand bat",
+    "bowlingHand": "N/A",
+    "priceUSD": 54545,
+    "image": "https://i.ibb.co.com/5X5tb6Tf/image.png"
+  },
+  {
+    "id": 6,
+    "name": "Mukidul Islam",
+    "country": "Bangladesh",
+    "role": "Bowler",
+    "rating": 7.3,
+    "battingHand": "Right-hand bat",
+    "bowlingHand": "Right-arm fast-medium",
+    "priceUSD": 45455,
+    "image": "https://i.ibb.co.com/kgbzX3Y8/image.png"
+  },
+  {
+    "id": 7,
+    "name": "Abu Jayed",
+    "country": "Bangladesh",
+    "role": "Bowler",
+    "rating": 7.4,
+    "battingHand": "Right-hand bat",
+    "bowlingHand": "Right-arm fast-medium",
+    "priceUSD": 50000,
+    "image": "https://i.ibb.co.com/C5pdBvqN/image.png"
+  },
+  {
+    "id": 8,
+    "name": "Thisara Perera",
+    "country": "Sri Lanka",
+    "role": "All-rounder",
+    "rating": 8.2,
+    "battingHand": "Left-hand bat",
+    "bowlingHand": "Right-arm medium-fast",
+    "priceUSD": 318182,
+    "image": "https://i.ibb.co.com/CpZZdMfP/image.png"
+  },
+  {
+    "id": 9,
+    "name": "Johnson Charles",
+    "country": "West Indies",
+    "role": "Batsman",
+    "rating": 8.1,
+    "battingHand": "Right-hand bat",
+    "bowlingHand": "Right-arm medium",
+    "priceUSD": 227273,
+    "image": "https://i.ibb.co.com/SDkd3PRF/image.png"
+  },
+  {
+    "id": 10,
+    "name": "Shahnawaz Dahani",
+    "country": "Pakistan",
+    "role": "Bowler",
+    "rating": 8.0,
+    "battingHand": "Right-hand bat",
+    "bowlingHand": "Right-arm fast-medium",
+    "priceUSD": 254545,
+    "image": "https://i.ibb.co.com/yF8brRgY/image.png"
+  },
+  {
+    "id": 11,
+    "name": "Saim Ayub",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "rating": 7.9,
+    "battingHand": "Left-hand bat",
+    "bowlingHand": "Right-arm off-break",
+    "priceUSD": 181818,
+    "image": "https://i.ibb.co.com/FLRCPKZt/image.png"
+  },
+  {
+    "id": 12,
+    "name": "Stephen Eskinazi",
+    "country": "England",
+    "role": "Batsman",
+    "rating": 7.7,
+    "battingHand": "Right-hand bat",
+    "bowlingHand": "N/A",
+    "priceUSD": 163636,
+    "image": "https://i.ibb.co.com/VWqJGM0V/image.png"
+  }
+]
