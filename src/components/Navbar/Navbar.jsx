@@ -1,7 +1,7 @@
 import React from 'react';
 import logoNav from '../../assets/logo.png'
 import navCoin from '../../assets/dollar 1.png'
-const Navbar = () => {
+const Navbar = ({availableBalance}) => {
     return (
         <div className="navbar max-w-[1320px] mx-auto flex items-center justify-between sora">
         <div className="w-[72px] h-[72px]">
@@ -15,7 +15,7 @@ const Navbar = () => {
             <li><a href="">Schedules</a></li>
           </ul>
           <div>
-            <button className='btn flex gap-2 bg-white'><span>0 Coin</span>
+            <button className='btn flex gap-2 bg-white'><span>{availableBalance} </span>Coin
               <span><img src={navCoin} alt="" /></span>
             </button>
           </div>
