@@ -3,7 +3,7 @@ import countryFlag from '../../assets/flag.png'
 import userIcon from '../../assets/user_1.png'
 
 
-const PlayerCard = ({player, availableBalance, setAvailableBalance}) => {
+const PlayerCard = ({player, availableBalance, setAvailableBalance, chosenPlayer, setChosenPlayer}) => {
     const [chooseBtn, setChooseBtn] = useState(false)
     const handleChooseBtn = (player) => {
         if(availableBalance < player.priceUSD)
@@ -14,6 +14,7 @@ const PlayerCard = ({player, availableBalance, setAvailableBalance}) => {
             setChooseBtn(true)
             const newBalance = availableBalance - player.priceUSD
             setAvailableBalance(newBalance);
+            setChosenPlayer([...chosenPlayer,player])
     }
     return (
         <div className="card p-[24px] border-1 border-[#1313131a] max-w-[424px]">
